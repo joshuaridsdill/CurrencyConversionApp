@@ -1,0 +1,17 @@
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\bin\Debug\net6.0-windows\CurrencyConversionApp.exe
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\bin\Debug\net6.0-windows\CurrencyConversionApp.deps.json
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\bin\Debug\net6.0-windows\CurrencyConversionApp.runtimeconfig.json
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\bin\Debug\net6.0-windows\CurrencyConversionApp.dll
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\bin\Debug\net6.0-windows\CurrencyConversionApp.pdb
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.Form1.resources
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.AssemblyInfo.cs
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.dll
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\refint\CurrencyConversionApp.dll
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.pdb
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\CurrencyConversionApp.genruntimeconfig.cache
+C:\Users\joshu\source\repos\CurrencyConversionApp\CurrencyConversionApp\obj\Debug\net6.0-windows\ref\CurrencyConversionApp.dll
